@@ -1,13 +1,14 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "danceLeft",
+			"fps": 24,
+			"name": "GF IDLE",
 			"indices": [
 				30,
 				0,
@@ -25,18 +26,16 @@
 				12,
 				13,
 				14
-			],
-			"name": "GF IDLE"
+			]
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-2,
 				-21
 			],
-			"loop": false,
-			"anim": "sad",
 			"fps": 24,
-			"name": "gf sad",
+			"anim": "sad",
 			"indices": [
 				0,
 				1,
@@ -51,16 +50,18 @@
 				10,
 				11,
 				12
-			]
+			],
+			"name": "gf sad"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "danceRight",
+			"fps": 24,
+			"name": "GF IDLE",
 			"indices": [
 				15,
 				16,
@@ -77,33 +78,32 @@
 				27,
 				28,
 				29
-			],
-			"name": "GF IDLE"
+			]
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "GF IDLE"
+			"fps": 24,
+			"name": "GF IDLE",
+			"indices": []
 		}
 	],
 	"no_antialiasing": true,
-	"image": "characters/gfPixel",
+	"image": "characters/NotgfAngry",
 	"position": [
 		0,
 		0
 	],
-	"healthicon": "gf-pixel",
+	"healthicon": "Notgf",
 	"flip_x": false,
 	"healthbar_colors": [
 		165,
 		0,
-		77
+		157
 	],
 	"camera_position": [
 		-20,
