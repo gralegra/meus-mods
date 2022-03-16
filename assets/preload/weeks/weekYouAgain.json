@@ -1,0 +1,25 @@
+{
+	"storyName": "alt. player",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "weekyou",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"you like exe",
+			"bf-pixel",
+			[
+				135,
+				0,
+				80
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Week you again"
+}

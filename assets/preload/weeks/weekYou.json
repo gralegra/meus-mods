@@ -1,0 +1,25 @@
+{
+	"storyName": "other \"bf\"",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "week6",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Confronting Yourself",
+			"notbf",
+			[
+				135,
+				0,
+				15
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Week you"
+}
